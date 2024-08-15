@@ -11,7 +11,7 @@ function NavbarComponent() {
         <img className='w-12 h-9' src="https://cdn.prod.website-files.com/66028c3f31c8a5d0d6d10874/660b9dbb5ee5f2e4b46f74e7_Sales%20Robot%20Website%20Redesign%20icon.png" alt="" />
        </div>
        <div className='mx-3'>
-        <h1 className='text-blue-500 font-semibold text-xl'>profitPilot</h1>
+        <h1 className='text-blue-500 font-semibold text-xl'>ReachBot</h1>
        </div>
        </div>
        
