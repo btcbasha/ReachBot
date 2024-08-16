@@ -3,10 +3,10 @@ import React from 'react';
 
 const MessageBanner: React.FC = () => {
   return (
-    <div className="bg-gradient-to-br from-indigo-900 via-purple-900 to-indigo-800 text-white p-8  flex flex-col justify-center h-96">
+    <div className="bg-gradient-to-br from-indigo-900 via-purple-900 to-indigo-800 text-white p-8  flex flex-col justify-center md:h-96  ">
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between">
         <div className="md:w-2/3 mb-8 md:mb-0">
-          <h1 className="text-4xl md:text-5xl font-bold mb-4">
+          <h1 className="text-3xl md:text-5xl font-bold mb-4">
             Message <span className="text-blue-300">100s</span> on people on LinkedIn and{' '}
             <span className="text-cyan-300">cold email.</span>
           </h1>

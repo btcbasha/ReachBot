@@ -16,10 +16,10 @@ className="pt-[7rem]"
 >
 
   <div>
-  <div className="flex justify-center items-center text-center text-5xl">
+  <div className="flex justify-center items-center text-center text-2xl font-bold lg:text-5xl">
     What are customers saying <br /> about us
   </div>
-    <div className="h-[40rem] rounded-md flex flex-col antialiase  dark:bg-grid-white/[0.05] items-center justify-center relative overflow-hidden">
+    <div className="h-[25rem] rounded-md flex flex-col antialiase  dark:bg-grid-white/[0.05] items-center justify-center relative overflow-hidden">
       <InfiniteMovingCards
         items={testimonials}
         direction="right"
